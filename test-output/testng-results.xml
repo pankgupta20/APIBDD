@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3862" started-at="2021-01-16T12:43:51 IST" finished-at="2021-01-16T12:43:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3862" started-at="2021-01-16T12:43:51 IST" finished-at="2021-01-16T12:43:55 IST">
+      <class name="apiTests.OuthTest">
+        <test-method status="PASS" signature="UnlockTest()[pri:0, instance:apiTests.OuthTest@76f2b07d]" name="UnlockTest" duration-ms="3822" started-at="2021-01-16T12:43:51 IST" finished-at="2021-01-16T12:43:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnlockTest -->
+      </class> <!-- apiTests.OuthTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
